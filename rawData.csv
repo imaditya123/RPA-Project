@@ -1,0 +1,22 @@
+Prefix,NAME,Designation,Gender,Month,Year,Total no. of Days,Allowed Leave,Leave taken,Worked Days,CTC,CTC for month,Basic Salary,DA(Dearness Allowance),HRA(House Rent Allowance),Bonus,Medical Bill Amount,Total Gross Salary,PF :Provident fund,TDS,Total Deduction ,Net Pay
+Mr,Raj Sharma,Chief Technical Officer,Male,December,2020,30,2,0,30,60000,0,0,0,0,13100,1250,0,0,7000,0,0
+Mr,Sharad Gandhi,Accountant,Male,December,2020,30,0,0,30,30000,0,0,0,0,2300,1250,0,0,500,0,0
+Mr,Danish D'Souza,Senior Web Developer,Male,December,2020,30,0,0,30,20000,0,0,0,0,0,2000,0,0,0,0,0
+Mr,Pawan Patil,Senior Ux/Ui Developer,Male,December,2020,30,2,2,30,25000,0,0,0,0,0,1250,0,0,0,0,0
+Mr,Rijo Paul,Senior Web Developer,Male,December,2020,30,2,2,30,22000,0,0,0,0,2300,2200,0,0,0,0,0
+Mr,Joseph P,Senior Web Developer,Male,December,2020,30,2,1,30,14000,0,0,0,0,2300,1400,0,0,0,0,0
+Mr,Aakash Patel,Web Developer,Male,December,2020,30,2,2,30,15000,0,0,0,0,0,1200,0,0,0,0,0
+Mr,Ganesh Rahu,Ux/Ui Designer,Male,December,2020,30,2,1,30,14000,0,0,0,0,0,1200,0,0,0,0,0
+Mr,Vinudas K.S,Web Developer,Male,December,2020,30,2,2,30,14000,0,0,0,0,1500,1400,0,0,0,0,0
+Mrs,Divya Kumar,Web Developer,Female,December,2020,30,2,2,30,8000,0,0,0,0,0,800,0,0,0,0,0
+Mrs,Shilpa R,QAA,Female,December,2020,30,2,3,29,8000,0,0,0,0,0,774,0,0,0,0,0
+Mrs,Sindhu J.P,Web Developer,Female,December,2020,30,2,1,30,8000,0,0,0,0,0,800,0,0,0,0,0
+Mrs,Deepthi P.S,QAA,Female,December,2020,30,2,2,30,8000,0,0,0,0,0,749,0,0,0,0,0
+Mr,Lijin k c,Accountant,Male,December,2020,30,2,2,30,13000,0,0,0,0,2000,1000,0,0,0,0,0
+Mr,Sayad K M,Project Manager,Male,December,2020,30,2,1,30,35000,0,0,0,0,2000,1250,0,0,2000,0,0
+Mr,Ajil k Mohanan,Web Developer,Male,December,2020,30,2,2,30,22000,0,0,0,0,0,2000,0,0,0,0,0
+Mr,Edison ML,Web Developer,Male,December,2020,30,2,0,30,12000,0,0,0,0,1000,1200,0,0,0,0,0
+Mr,Basil P E,Web Developer,Male,December,2020,30,2,1,30,22000,0,0,0,0,5000,1067,0,0,0,0,0
+Mr,Jobin George,Web Developer,Male,December,2020,30,2,0,30,16000,0,0,0,0,1500,1600,0,0,0,0,0
+Mr,Jismon Tomy,Web Developer,Male,December,2020,30,2,1,30,10000,0,0,0,0,2000,1000,0,0,0,0,0
+Mrs,Sharafali P,Ux/Ui Designer,Male,December,2020,30,2,0,30,14000,0,0,0,0,0,1400,0,0,0,0,0
